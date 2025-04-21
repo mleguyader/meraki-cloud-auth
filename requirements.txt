@@ -1,0 +1,6 @@
+flask
+requests
+python-dotenv
+ldap3
+schedule
+flask-mail
